@@ -1,0 +1,16 @@
+<svg width="950" height="922" viewBox="0 0 950 922" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="mix-blend-mode:luminosity">
+<rect width="950" height="922" fill="url(#pattern0_287_17)" fill-opacity="0.1"/>
+<rect width="950" height="922" fill="url(#paint0_linear_287_17)"/>
+</g>
+<defs>
+<pattern id="pattern0_287_17" patternContentUnits="objectBoundingBox" width="0.0673684" height="0.138829">
+<use xlink:href="#image0_287_17" transform="scale(0.000842105 0.000867679)"/>
+</pattern>
+<linearGradient id="paint0_linear_287_17" x1="475" y1="0" x2="475" y2="922" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0F0F0F" stop-opacity="0"/>
+<stop offset="1" stop-color="#0F0F0F"/>
+</linearGradient>
+<image id="image0_287_17" width="80" height="160" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAACgAgMAAADm7QMnAAAADFBMVEWIiIixsbGxsbGxsbF0SLUbAAAABHRSTlP/bytS3QghxwAAAEVJREFUeAFjYA3FAA4Mq17tWrcalVhBtOBK7IL/McFf4rUPZYtGLRq1aNSiUYtGLSJcoYzWR4PBolGLRi0atWjUotH6CAA67a9q5+gpSAAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
